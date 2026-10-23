@@ -1,0 +1,31 @@
+MINHA MULTIPANE — APLICATIVO WEB ACESSÍVEL
+
+CONTEÚDO
+index.html           Aplicativo completo (funciona sem internet, sem instalação).
+manual-original.pdf  Manual original da panificadora Britânia Multipane, com 60 páginas.
+
+COMO USAR
+1. Extraia todos os arquivos deste ZIP para a mesma pasta.
+2. Abra index.html com Chrome, Edge, Firefox ou Safari.
+3. Escolha entre Fazer meu primeiro pão, Receitas, Botões e programas,
+   Resolver um problema e Cuidados e manual.
+4. Use A+ para aumentar a fonte e Contraste para alto contraste.
+5. A leitura em voz alta usa o recurso nativo do navegador, quando disponível.
+
+PUBLICAR COMO SITE
+1. Faça upload dos dois arquivos (index.html e manual-original.pdf) para
+   a raiz de um site estático (Vercel, Netlify ou GitHub Pages).
+2. Não é necessário instalar dependências, compilar o projeto nem manter backend.
+3. Publique com HTTPS. Não é necessário cadastro nem login.
+
+OBSERVAÇÕES
+- 99 receitas extraídas do Manual de Instruções Unificado.
+- Referência à página original disponível em cada receita.
+- Algumas receitas têm instruções de programa conflitantes no próprio PDF;
+  o aplicativo sinaliza divergências detectadas, sem corrigi-las por suposição.
+- Tamanhos, ingredientes e modos de preparo devem ser conferidos no manual
+  original se houver qualquer dúvida.
+- O aplicativo não se conecta nem controla a panificadora.
+- Preferências de letras, contraste e favoritos são armazenadas apenas
+  no navegador local. Não há coleta de dados ou conexão com serviços.
+- Este é um aplicativo independente, não oficial da Britânia.
